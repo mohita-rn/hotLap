@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730123299428",
+    "project_id": "hotlap-9b1f8",
+    "storage_bucket": "hotlap-9b1f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730123299428:android:74e20d62c9456f9774cd71",
+        "android_client_info": {
+          "package_name": "com.hotLap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaIrgBM2N0mNZA7a8HQLhuuV7CRVNdPyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
